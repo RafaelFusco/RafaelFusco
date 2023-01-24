@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Fusco 👋
 ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFusco&show_icons=true&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFusco&layout=compact&theme=dark)](https://github.com/RafaelFusco/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFusco&show_icons=true&theme=dark&hide_title=true&line_height=21px)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFusco&layout=compact&theme=dark&card_width=50)](https://github.com/RafaelFusco/github-readme-stats)
 
 ##
 
