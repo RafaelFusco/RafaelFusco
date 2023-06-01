@@ -1,4 +1,6 @@
-### FRONTEND DEVELOPER
+#### Olá, eu sou Rafael Fusco 👋
+# FRONTEND DEVELOPER
+### Tenho 23 anos, sou desenvolvedor front-end e estou em busca da minha primeira oportunidade.
 ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFusco&show_icons=true&theme=dark&hide_title=true&line_height=21px)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFusco&layout=compact&theme=dark&card_width=240)](https://github.com/RafaelFusco/github-readme-stats)
